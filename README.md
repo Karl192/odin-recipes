@@ -1,4 +1,4 @@
-<h2>Project:Recipes-website</h2>
+<h2>Project:Recipes-Website</h2>
 
   <p>In the following project I was asked to create a basic recipe website.</p> 
 
