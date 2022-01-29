@@ -1,12 +1,9 @@
-# odin-recipes
+<h2>Project:Recipes-website</h2>
 
-Project:Recipes
+  <p>In the following project I was asked to create a basic recipe website.</p> 
 
-In the following project I was asked to create a basic recipe website. 
-
-The goal of the poject was to demonstrate skills in:
--creating an index with hyperlinks to other pages
--creating headings
--using the image element and some of it's attributes, notably the alternative text attribute.
--creating unordered lists
--creating ordered lists
+<p>The goal of the poject was to demonstrate skills in:
+<ul>
+<li>creating an index with hyperlinks to other pages</li> <li>creating headings</li><li>using the image element and some of it's attributes, notably the alternative text attribute</li><li>creating unordered lists</li><li>creating ordered lists</li>
+</ul>
+</p>
